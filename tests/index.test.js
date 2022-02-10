@@ -1,4 +1,4 @@
-import { some } from "./index.js"
+import { some } from "../src"
 
 test("some", () => {
     expect(some()).toBe(true)
